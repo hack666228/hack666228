@@ -1,0 +1,29 @@
+body {
+	background:#5B4CD8;
+}
+div{
+	background:#FFFFFF;
+	width: 400px;
+	margin: auto;
+
+}
+h1	{
+	text-align: center;
+
+}
+h2 {
+	text-align: center;
+
+}
+li {
+	list-style-type: "\2714";
+font-family: "Pacifico",sans-serif;
+}
+ol	{
+	list-style-type: "\2714";
+font-family: "Pacifico",sans-serif;
+}
+ul {
+	list-style-type: "\2714";
+font-family: "Pacifico",sans-serif;
+}	
